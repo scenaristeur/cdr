@@ -5,7 +5,11 @@ https://coop.tierslieux.net/tiers-lieux/typologies-definition/
 
 https://www.cget.gouv.fr/actualites/l-etat-s-engage-pour-les-tiers-lieux-dans-les-territoires
 
+https://www.fablab-en-kit.com/nos-kits
 
+https://digital-grenoble.com/devenez-societaire/
+
+https://digital-grenoble.com/candidatez-au-french-tech-tremplin/
 
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
