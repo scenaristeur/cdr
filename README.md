@@ -20,6 +20,8 @@ http://www.auvergne-rhone-alpesolidaires.org/structures/association-amabla
 
 http://www.auvergne-rhone-alpesolidaires.org/projets
 
+http://cigales-aura.fr/projets-cigales/habitat-et-partage/
+
 
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
