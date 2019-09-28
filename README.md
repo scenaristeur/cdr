@@ -15,6 +15,11 @@ https://digital-grenoble.com/candidatez-au-french-tech-tremplin/
 # [Photos free]
 [pixabay](https://pixabay.com/fr/photos/sourire-r%C3%A9union-discussion-bureau-4468547/)
 
+# [A voir]
+http://www.auvergne-rhone-alpesolidaires.org/structures/association-amabla
+
+http://www.auvergne-rhone-alpesolidaires.org/projets
+
 
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
